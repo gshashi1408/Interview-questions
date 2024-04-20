@@ -1,0 +1,8 @@
+What are your day-to-day activities?
+
+1).As soon as I log in, I will check my email for any production alerts or issues created by SRE in production or staging. I will prioritize them accordingly.
+2).If there are no priority emails, I will check the internal development or QA channel to see if any issues are reported, such as CI/CD-related Jenkins or server connectivity issues, or any development or merge issues. 
+I will assist them as needed at the earliest.
+3).We usually follow Agile methodology. We have sprints of 2 weeks (80 hours), during which we have planned Jira tickets for DevOps-related practices like building infrastructure, configuration, and automation. 
+In these 80 hours, I will spend around 30 hours on production alerts or any issues created by SRE in production or staging, and 50 hours on remaining tasks.
+4).If I have any free time after completing all the tasks, I will work on automating manually driven tasks.
